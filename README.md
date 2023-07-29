@@ -28,7 +28,7 @@ in our case we get:
 Test Accuracy = 0.9338186383247375
 Loss function = 0.1776
 
-**Finallغ** I built a predictive System to deploy our model in any image with Path only and it will classify if you wear a maskor No
+**Finally* I built a predictive System to deploy our model in any image with Path only and it will classify if you wear a maskor No
 
 Finally I want to thank you for reading
 
