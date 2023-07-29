@@ -1,7 +1,5 @@
 # Face_Mask-Detection
 
-Hello Dears,
-This is my second Project as a Machine Learning at @SYNC
 
 - Project Name: Real-time face mask Detection
 
